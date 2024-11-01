@@ -1,0 +1,34 @@
+body {
+  background-image: url(https://salcombedairy.co.uk/cdn/shop/articles/Ellie_Ice_Cream_4.jpg?v=1693915208&width=1600);
+  background-size: contain;
+  background-position: inherit;
+  min-height: 100dvh;
+  min-width: 100dvh;
+}
+
+.font-large {
+  font-size: larger;
+}
+
+
+/* <uniquifier>: Use a unique and descriptive class name */
+/* <weight>: Use a value from 100 to 400 */
+
+.play-write {
+  font-family: "Playwrite GB S", cursive;
+  font-optical-sizing: auto;
+  font-weight: 2px;
+  font-style: normal;
+}
+
+/* FIXME FONT doesnt ALSO want to show up. is there ANY CORRELATION BETWEEN stuff not displaying?? */
+
+
+
+/* FIXME BACKGROUND doesn't WANT TO SHOW UP, am I missing something? */
+
+.header-color {
+  color: aquamarine;
+}
+
+/* FIXME header color doesn't want to show up either?? */
